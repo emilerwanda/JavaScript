@@ -3,6 +3,7 @@
  * Approximate log2 using only bitwise operators
  * @param {number} n
  * @returns {number} Log2 approximation equal to floor(log2(n))
+ mathematics
  */
 export const logTwo = (n) => {
   let result = 0
